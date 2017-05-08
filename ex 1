@@ -1,12 +1,29 @@
 data source: https://www.kaggle.com/murderaccountability/homicide-reports
 
+-----PART 1-----
+
 1. Tableau Public graph, 1 categorial 1 continuous variables
 https://public.tableau.com/views/1_PerpetratorAvgAgeByWeapon/Sheet1?:embed=y&:display_count=yes
 
 2. Tableau Public graph, 1 categorial 2 continuous variables
-https://public.tableau.com/views/AvgperpetratorageandnumberofrecordsbyWeapon/Sheet2?:embed=y&:display_count=yes
+https://public.tableau.com/views/2_Numberofreportedmurderandperpetratorageperweapontype/Sheet9?:embed=y&:display_count=yes
 
 3. Excel graph, 1 categorial 1 continuous variables
 https://github.com/InnaHB/visualization-class/blob/master/avgPerpetratorAgeByWeaponPivot.xlsx
 
 4. Python graph 1 categorial 1 continuous variables
+https://github.com/InnaHB/visualization-class/blob/master/AvgVictimAgeByWeapon.ipynb
+
+-----PART 2-----
+the explanations for each graph appear in caption of the graph in Tableau
+
+1. 
+https://public.tableau.com/views/1_NumberofReportedMurderPerYear/Sheet7?:embed=y&:display_count=yes
+
+2.
+https://public.tableau.com/views/2_NumberofReportedMurderPerMonth/Sheet6?:embed=y&:display_count=yes
+
+3.
+https://public.tableau.com/views/3_victimvs_perpetratoragebyweapontype/Sheet8?:embed=y&:display_count=yes
+
+4.
