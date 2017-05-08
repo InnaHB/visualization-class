@@ -1,1 +1,7 @@
+data source: https://www.kaggle.com/murderaccountability/homicide-reports
+
+1. Tableau Public graph, 1 categorial 1 continuous variables
 https://public.tableau.com/views/1_PerpetratorAvgAgeByWeapon/Sheet1?:embed=y&:display_count=yes
+
+2. Tableau Public graph, 1 categorial 2 continuous variables
+https://public.tableau.com/views/AvgperpetratorageandnumberofrecordsbyWeapon/Sheet2?:embed=y&:display_count=yes
