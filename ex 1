@@ -6,16 +6,16 @@ data source: https://www.kaggle.com/murderaccountability/homicide-reports
 
 -----PART 1-----
 
-1. Tableau Public graph, 1 categorial 1 continuous variables
+1. Tableau Public graph, 1 categorical  1 continuous variables
 https://public.tableau.com/views/1_PerpetratorAvgAgeByWeapon/Sheet1?:embed=y&:display_count=yes
 
-2. Tableau Public graph, 1 categorial 2 continuous variables
+2. Tableau Public graph, 1 categorical  2 continuous variables
 https://public.tableau.com/views/2_Numberofreportedmurderandperpetratorageperweapontype/Sheet9?:embed=y&:display_count=yes
 
-3. Excel graph, 1 categorial 1 continuous variables
+3. Excel graph, 1 categorical  1 continuous variables
 https://github.com/InnaHB/visualization-class/blob/master/avgPerpetratorAgeByWeaponPivot.xlsx
 
-4. Python graph 1 categorial 1 continuous variables
+4. Python graph 1 categorical  1 continuous variables
 https://github.com/InnaHB/visualization-class/blob/master/AvgVictimAgeByWeapon.ipynb
 
 -----PART 2-----
